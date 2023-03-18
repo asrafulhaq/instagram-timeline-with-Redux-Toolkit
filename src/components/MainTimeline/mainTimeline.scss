@@ -1,0 +1,47 @@
+.timeline-box {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: var(--shadow-1);
+  margin-bottom: 10px;
+
+  .auth-info {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    align-items: center;
+    img {
+      width: 70px;
+      height: 70px;
+      border-radius: 50%;
+    }
+  }
+
+  .post-content {
+    p {
+      padding: 10px;
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .post-reactions {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+    .reaction-item {
+      display: flex;
+      gap: 5px;
+      font-size: 18px;
+      align-items: center;
+
+      i {
+        font-size: 30px;
+        cursor: pointer;
+      }
+    }
+  }
+}

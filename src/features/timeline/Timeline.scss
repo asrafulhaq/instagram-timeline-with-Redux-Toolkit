@@ -1,0 +1,11 @@
+.timeline-wraper {
+  margin-top: 50px;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  .timeline-middle {
+    width: 600px;
+  }
+}

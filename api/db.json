@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "auth_name": "Asraful haq",
+      "auth_photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-5.png",
+      "content": "This is my first post",
+      "photo": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_625736338_353769.jpg",
+      "post_time": "",
+      "reactions": {
+        "like": 0,
+        "dislike": 0,
+        "love": 0
+      }
+    },
+    {
+      "id": 2,
+      "auth_name": "Raju",
+      "auth_photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png",
+      "content": "My name is Raju",
+      "photo": "https://explore.easyprojects.net/wp-content/uploads/2015/11/The-roles-of-project-managers-for-10-plus-team-members-1080x640.jpg",
+      "post_time": "",
+      "reactions": {
+        "like": 0,
+        "dislike": 0,
+        "love": 0
+      }
+    },
+    {
+      "auth_name": "Selim Khan",
+      "auth_photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-9.png",
+      "content": "Tomi koi tomi koi gooooooo ! ",
+      "photo": "https://www.betterteam.com/images/team-member-job-description-3472x2480-20201117.jpeg?crop=1:1,smart&width=1200&dpr=2",
+      "id": 3
+    },
+    {
+      "auth_name": "Tohid Khan",
+      "auth_photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team1.jpg",
+      "content": "Ami JS tomare Kahisi , , , tomi keno amar kotha sonoo naaa , , , Tomi r karo hote parbaaa naaa ",
+      "photo": "https://aboutleaders.com/wp-content/uploads/2019/03/Team-Motivation-Meeting.jpg",
+      "id": 4
+    }
+  ]
+}

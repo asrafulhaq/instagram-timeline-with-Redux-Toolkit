@@ -1,0 +1,18 @@
+.timeline-create-post {
+  padding: 20px 10px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: var(--shadow-1);
+
+  button {
+    font-size: 16px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+  }
+}
